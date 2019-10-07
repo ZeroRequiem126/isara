@@ -1,0 +1,199 @@
+@media (max-width: 768px ) {
+  
+  .container {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  header {
+    width: 768px;
+    background-color: white;
+    padding: 0 10px;
+  }
+
+  /* contents2 */
+  #contents2-contact {
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin: 0 20px;
+    margin-bottom: 34px;
+  }
+  
+  .fa-twitter {
+    padding: 5px 2px;
+  }
+  
+  
+  /* contents3 */
+  .contents3-kakko {
+	padding: 30px 0;
+	width: 700px;
+	font-size: 25px;
+  }
+  
+  .contents3-explnation {
+    font-size: 18px;
+  }  
+  
+  
+   /* contents4 */
+   
+  .contents4-kakko {
+	padding: 30px 0;
+	font-size: 25px;
+	width: 700px;
+  }
+  
+  .contents4-2 {
+    width: 768px;
+    padding: 30px;
+  }
+  
+  
+   /* contents5 */
+   
+   .step {
+    display: block;
+    padding: 30px 30px 20px;
+    margin: 0 100px;
+    margin-bottom: 20px;
+  }
+  
+  .step-title {
+    margin: 0 50px;
+  }
+  
+  .contents5-2 {
+    font-size: 18px;
+  }
+  
+  /* contents6 */
+  
+  .lesson {
+    display: block;
+  }
+
+
+   /* contents7 */
+   
+  .contents7-kakko  {
+    font-size: 25px;
+    width: 700px;
+  }
+  
+  .merits {
+    margin-bottom: 40px;
+    display: block;
+  }
+
+  .merit {
+      display: block;
+      float: none;
+      margin: 0 auto;
+      padding: 0;
+      padding-bottom: 50px;
+  }
+  
+  .merit1, .merit2, .merit3 {
+    height: 300px;
+    text-align: center;
+  }
+  
+  .merit-title, .merit-exp {
+    text-align: center;
+  }
+
+  
+   /* contents8 */
+   
+   .row {
+    width: 768px;
+    margin: 0 auto;
+    display: block;
+ }
+
+  .member {
+      width: 50%;
+      margin: 0 auto;
+      display: block;
+      float: none;
+      margin-left: 140px;
+  }
+  
+  
+   /* contents9 */
+  
+  .contents9-kakko {
+    font-size: 25px;
+    width: 700px;
+  }
+  
+  
+  /* contents12 */
+  .flow-arrow {
+    margin: 0 10px;
+  }
+  
+  
+  /* contents13 */
+  
+  .contents13 {
+    padding-left: 20px;
+  }
+  
+  
+  /* contents14 */
+  
+  .privileges {
+    width: 750px;
+  }
+
+  .privilege {
+      width: 230px;
+      height: 230px;
+      display: block;
+      margin: 0 auto;
+      padding-top: 40px
+  }
+  
+  .privilege-exp {
+   font-size: 13px;
+    width: 200px;
+  }
+
+
+  /* contents15 */
+  
+  .contents15-kakko  {
+    font-size: 25px;
+    width: 700px;
+  }
+
+
+  /* contents15 */
+  
+  .message-txts3 {
+    padding-top: 20px;
+  }
+
+   /* contents17 */
+
+  .form1, .form2, .form3, .form4, .form5 {
+    width: 700px;
+  }
+  
+  
+  /* contents18 */
+  
+  .faq-list-item {
+    width: 700px;
+  }
+  
+  .answer {
+    width: 600px;
+  }
+  
+}
+
